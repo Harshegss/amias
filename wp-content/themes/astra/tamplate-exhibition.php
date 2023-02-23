@@ -2,7 +2,6 @@
 session_start();
 /* Template Name: Exhibition */
 get_header();
-echo 'Testing';
 // unset($_SESSION['memberVerrified']);
 // echo get_option( 'vatTax', '' );
 // echo wp_get_attachment_image_src(get_post_thumbnail_id(),'full')[0];
